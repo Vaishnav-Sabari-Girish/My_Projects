@@ -1,0 +1,33 @@
+[submodule "Vaishnav-Sabari-Girish"]
+	path = Vaishnav-Sabari-Girish
+	url = git@github.com:Vaishnav-Sabari-Girish/Vaishnav-Sabari-Girish.git
+[submodule "Portable_Water_Purity_Tester"]
+	path = Portable_Water_Purity_Tester
+	url = git@github.com:Vaishnav-Sabari-Girish/Portable_Water_Purity_Tester.git
+[submodule "Smart_Door_Lock_Using_Li-Fi"]
+	path = Smart_Door_Lock_Using_Li-Fi
+	url = git@github.com:Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi.git
+[submodule "Smart_Door_Lock"]
+	path = Smart_Door_Lock
+	url = git@github.com:Vaishnav-Sabari-Girish/Smart_Door_Lock_Using_Li-Fi.git
+[submodule "FastHTML-Tutorial"]
+	path = FastHTML-Tutorial
+	url = git@github.com:Vaishnav-Sabari-Girish/FastHTML-Tutorial.git
+[submodule "vaishnav-sabari-girish.github.io"]
+	path = vaishnav-sabari-girish.github.io
+	url = git@github.com:Vaishnav-Sabari-Girish/vaishnav-sabari-girish.github.io.git
+[submodule "arduino-cli-interactive"]
+	path = arduino-cli-interactive
+	url = git@github.com:Vaishnav-Sabari-Girish/arduino-cli-interactive.git
+[submodule "Rust_TUI"]
+	path = Rust_TUI
+	url = git@github.com:Vaishnav-Sabari-Girish/Rust_TUI_Projects.git
+[submodule "Anime_Quote_Terminal"]
+	path = Anime_Quote_Terminal
+	url = git@github.com:Vaishnav-Sabari-Girish/Anime_quote_Terminal.git
+[submodule "field_monitoring_system"]
+	path = field_monitoring_system
+	url = git@github.com:Vaishnav-Sabari-Girish/field_monitoring_system.git
+[submodule "NuShell_scripts"]
+	path = NuShell_scripts
+	url = git@github.com:Vaishnav-Sabari-Girish/Nushell_Scripts.git

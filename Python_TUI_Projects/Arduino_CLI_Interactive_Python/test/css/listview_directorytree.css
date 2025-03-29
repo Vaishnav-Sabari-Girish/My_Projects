@@ -1,0 +1,23 @@
+Screen {
+  align: center middle;
+}
+
+#container_test {
+  width: 50%;
+  height: 70%;
+  padding: 1;
+  align: center middle;
+}
+
+#directory_tree {
+  height: auto;
+  margin: 2 2;
+}
+
+#list_view {
+  height: auto;
+}
+
+Label {
+  padding: 1 2;
+}
