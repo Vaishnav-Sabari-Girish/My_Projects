@@ -34,3 +34,6 @@
 [submodule "Anime_quote_Terminal"]
 	path = Anime_quote_Terminal
 	url = git@github.com:Vaishnav-Sabari-Girish/Anime_quote_Terminal.git
+[submodule "Python_TUI_Projects"]
+	path = Python_TUI_Projects
+	url = git@github.com:Vaishnav-Sabari-Girish/Python_Tui_Projects.git
