@@ -37,3 +37,6 @@
 [submodule "Python_TUI_Projects"]
 	path = Python_TUI_Projects
 	url = git@github.com:Vaishnav-Sabari-Girish/Python_Tui_Projects.git
+[submodule "streamlit_apps"]
+	path = streamlit_apps
+	url = git@github.com:Vaishnav-Sabari-Girish/streamlit_tutorial.git
