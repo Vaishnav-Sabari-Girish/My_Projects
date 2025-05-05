@@ -40,3 +40,6 @@
 [submodule "streamlit_apps"]
 	path = streamlit_apps
 	url = git@github.com:Vaishnav-Sabari-Girish/streamlit_tutorial.git
+[submodule "homebrew-arduino-cli-interactive"]
+	path = homebrew-arduino-cli-interactive
+	url = git@github.com:Vaishnav-Sabari-Girish/homebrew-arduino-cli-interactive.git
