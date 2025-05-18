@@ -46,3 +46,6 @@
 [submodule "portable_wireless_translator"]
 	path = portable_wireless_translator
 	url = git@github.com:Vaishnav-Sabari-Girish/Portable-Wireless-Translator.git
+[submodule "OpenSCAD_Tutorial"]
+	path = OpenSCAD_Tutorial
+	url = git@github.com:Vaishnav-Sabari-Girish/OpenSCAD-Tutorial.git
