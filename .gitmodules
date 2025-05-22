@@ -49,3 +49,6 @@
 [submodule "OpenSCAD_Tutorial"]
 	path = OpenSCAD_Tutorial
 	url = git@github.com:Vaishnav-Sabari-Girish/OpenSCAD-Tutorial.git
+[submodule "Embedded_Rust"]
+	path = Embedded_Rust
+	url = git@github.com:Vaishnav-Sabari-Girish/Embedded-Rust.git
