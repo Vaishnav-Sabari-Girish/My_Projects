@@ -52,3 +52,6 @@
 [submodule "Embedded_Rust"]
 	path = Embedded_Rust
 	url = git@github.com:Vaishnav-Sabari-Girish/Embedded-Rust.git
+[submodule "RataTUI_Tutorial"]
+	path = RataTUI_Tutorial
+	url = git@github.com:Vaishnav-Sabari-Girish/RataTUI_Tutorial.git
